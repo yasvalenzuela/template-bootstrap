@@ -1,0 +1,70 @@
+/*primera parte*/
+#jumbotron {
+  margin: 2% 3%;
+}
+
+/*segunda parte botones*/
+.button h2 {
+  margin-left: 5%;
+  padding-bottom: 2%;
+}
+
+#primerBoton {
+  margin-left: 5%;
+}
+
+.button button {
+  font-size: 120%;
+  padding: 1%;
+  width: 8%;
+  margin-bottom: 1%;
+}
+
+.buttonDos button {
+  font-size: 100%;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+.buttonTres button {
+  font-size: 80%;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+.buttonCuatro button {
+  font-size: 60%;
+  padding: 1%;
+  margin-bottom: 1%;
+}
+
+.container {
+  margin-left: 1%;
+}
+.tables {
+  width: 50%;
+  float: left;
+  margin-right: 1%;
+}
+
+.tablesDos {
+  width: 50%;
+float: right;
+margin-top: 5%;
+}
+
+.containerTres {
+  margin-left: 1%;
+}
+
+.tablesTres {
+  width: 43%;
+  margin-right: 1%;
+}
+
+.tablesCuatro {
+  width: 50%;
+  float: right;
+  margin-top: -19%;
+}
+}
